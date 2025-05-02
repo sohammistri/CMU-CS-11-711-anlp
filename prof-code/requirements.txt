@@ -1,4 +1,0 @@
-jupyter
-scikit-learn
-pytorch
-tqdm
