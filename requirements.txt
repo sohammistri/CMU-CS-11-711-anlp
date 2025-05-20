@@ -138,6 +138,7 @@ sympy==1.13.1
 terminado==0.18.1
 thinc==8.3.6
 threadpoolctl==3.6.0
+tiktoken==0.9.0
 tinycss2==1.4.0
 tokenizers==0.21.1
 torch==2.6.0
